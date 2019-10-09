@@ -1,2 +1,0 @@
-# auth-login
-SibDev test
