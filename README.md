@@ -1,4 +1,3 @@
-TEST FOR SIBDEV ( NOT COMPLETE )
+SIMPLE API FOR REGISTER AND LOGIN AUTHENTICATION WITH NODEJS + INTEGRATION WITH REACT
 
-Run the command on console to start the server:
-"npm run dev"
+Install all the packages with npm install and "npm run dev"
